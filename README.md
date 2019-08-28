@@ -1,1 +1,1 @@
-"# Barcode Scanner using Ionic" 
+# Barcode Scanner using Ionic
